@@ -2,6 +2,10 @@
 
 This project models the relationship between traffic density and vehicle speed using NYC taxi data. Inspired by classical traffic flow theory, I analyze how increasing demand affects system efficiency and identify a critical density threshold where traffic flow is maximized.
 
+<p align="center">
+  <img src="https://github.com/lukaszamora/Traffic-Flow-Modeling/blob/main/2%20-%20plot.png" alt=""/>
+</p>
+
 ## Objectives
 
 - Model the relationship between density and speed  
